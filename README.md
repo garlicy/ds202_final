@@ -1,3 +1,4 @@
+*This is the copy of the proposal.md
 ---
 title: 'Proposal'
 author: "Jung Ho Suh"
