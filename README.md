@@ -5,6 +5,7 @@ title: 'Proposal'
 author: "Jung Ho Suh"
 output: html_document
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -22,6 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
     S&P 500 Daily Data - https://www.kaggle.com/myungchankim/sp-500-daily-data-19281230-to-20210919
     
   ***An overview of the dataset***
+  
 ```{r}
 #library(read_csv)
 dailysandp <- read.csv('SPX_500_Data.csv')
